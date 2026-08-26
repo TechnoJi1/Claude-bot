@@ -1,8 +1,8 @@
 {
   "server": {
-    "host": "OmegaXsan.aternos.me",
-    "port": 24717,
-    "version": false,
+  "host": "OmegaXsan.aternos.me",
+  "port": 24717,
+  "version": "1.21.11",
     "auth": "offline"
   },
   "bot": {
